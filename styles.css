@@ -1,6 +1,7 @@
 .form {
     border-radius: 2%;
     background-color: #A2BB48;
+    width: 30%;
 }
 
 .steps {
@@ -11,9 +12,11 @@
     background-color: rgb(189, 207, 119);
     padding: 1px;
     margin: 5px;
+    
 }
 
 .button {
     background-color: black;
     color: white;
 }
+
